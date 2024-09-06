@@ -11,7 +11,11 @@ The source code of The Agent's landing page.
 
 In case you get a dependency conflict, feel free to run the installation command with `--force` applied.
 
-You're ready to go!
+#### _Important_
+
+> Don't forget to copy `git` hooks from `/hooks` to `.git/hooks` before starting your work!
+
+And now you're ready to go!
 
 #### _Pro tip_
 

@@ -4,7 +4,7 @@
 ### Angular ###
 ## Angular ##
 # compiled output
-dist/
+# dist - we keep it for GitHub Pages, and there's a git hook to ensure it's built
 tmp/
 app/**/*.js
 app/**/*.js.map
@@ -172,7 +172,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# dist - we keep it for GitHub Pages, and there's a git hook to ensure it's built
 
 # Gatsby files
 .cache/
